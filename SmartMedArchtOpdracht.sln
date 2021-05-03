@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.808.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartMedArchtOpdracht", "SmartMedArchtOpdracht\SmartMedArchtOpdracht.csproj", "{0232A3DF-1519-4458-8C8F-A9F35343CEE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartMedArchtOpdracht.Tests", "SmartMedArchtOpdracht.Tests\SmartMedArchtOpdracht.Tests.csproj", "{CDF98856-628C-4F77-9A66-7678BE7983A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0232A3DF-1519-4458-8C8F-A9F35343CEE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0232A3DF-1519-4458-8C8F-A9F35343CEE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0232A3DF-1519-4458-8C8F-A9F35343CEE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0232A3DF-1519-4458-8C8F-A9F35343CEE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDF98856-628C-4F77-9A66-7678BE7983A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF98856-628C-4F77-9A66-7678BE7983A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF98856-628C-4F77-9A66-7678BE7983A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF98856-628C-4F77-9A66-7678BE7983A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDB488C2-08F5-4B69-B3B0-691BF4D206BA}
+	EndGlobalSection
+EndGlobal

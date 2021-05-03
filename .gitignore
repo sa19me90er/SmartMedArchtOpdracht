@@ -1,0 +1,13 @@
+/.vs
+SmartMedArchtOpdracht/Connected_Service
+SmartMedArchtOpdracht/Dependencies
+SmartMedArchtOpdracht/bin
+SmartMedArchtOpdracht/obj
+SmartMedArchtOpdracht/appsettings.Development.json
+
+SmartMedArchtOpdracht.Tests/Connected_Service
+SmartMedArchtOpdracht.Tests/Dependencies
+SmartMedArchtOpdracht.Tests/bin
+SmartMedArchtOpdracht.Tests/obj
+
+
